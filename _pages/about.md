@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-===
 I am a math professor in the [Mathematics, Statistics and Computer Science Department](https://www.macalester.edu/mscs/) at [Macalester College](https://www.macalester.edu) in St Paul, Minnesota, USA.
 
 I study combinatorics and graph theory, along with their applications to computer science. My research interests include random walks, random graphs, pursuit-evasion games, combinatorial games, social choice theory and network science.  
