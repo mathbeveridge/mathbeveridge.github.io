@@ -1,5 +1,5 @@
 ---
-title: "Line of Sight Pursuit in Monoton and Sweepable Polygons"
+title: "Line-of-Sight Pursuit in Monotone and Sweepable Polygons"
 collection: publications
 permalink: /publication/2020-01-los-pursuit
 excerpt: 'We describe stategies for a single pursuer to capture an evader in certain polygon families. The pursuer has a map of the environment, but cannot see around corners.'
