@@ -3,7 +3,7 @@ title: "Pursuit-Evasion: A Toolkit to Make Applications More Accessible"
 collection: publications
 permalink: /publication/2016-pe-toolkit
 excerpt: 'A tutorial on the tools and techniques for designing pursuit and evasion strategies, useful for researchers and accessible to STEM educators.'
-date: 2017-06-01
+date: 2016-02-01
 venue: 'Robotics and Automation Magazine'
 paperurl: 'https://www.cs.umn.edu/research/technical_reports/view/15-013'
 citation: 'A. Beveridge, V. Isler, N. Noori, Pursuit-Evasion: A Toolkit to Make Applications More Accessible, Robotics and Automation Magazine, Vol. 23, No. 4 (2016), pp. 138-149.'
