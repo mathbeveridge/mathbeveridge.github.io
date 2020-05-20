@@ -6,7 +6,7 @@ excerpt: 'We show that a family of poset extensions is equinumerous with alterna
 date: 2020-12-21
 venue: 
 paperurl: 'https://arxiv.org/abs/1809.08332'
-citation: 'A. Beveridge, I. Calaway and K. Heysse, De Finetti Lattices and Magog Triangles, submitted.'
+citation: 'A. Beveridge, I. Calaway and K. Heysse, De Finetti Lattices and Magog Triangles, preprint.'
 ---
 
 
