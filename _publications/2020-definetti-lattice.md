@@ -1,5 +1,5 @@
 ---
-title: "The Voter Basis and the Admissibility of Tree Characters"
+title: "De Finetti Lattices and Magog Triangles"
 collection: publications
 permalink: /publication/2020-definetti-lattice
 excerpt: 'We show that a family of poset extensions is equinumerous with alternating sign matrices'
