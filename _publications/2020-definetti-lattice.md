@@ -10,7 +10,7 @@ citation: 'A. Beveridge, I. Calaway and K. Heysse, De Finetti Lattices and Magog
 ---
 
 
-Let F be the collection of subsets of [n]={1,2,...,n} of size at most 2 with the partial order rule
-i<j implies {i}≺{j} and  {i,k}≺{j,k}. We show that the number of linear extensions of F is counted by the [strict sense ballot numbers]{https://oeis.org/A003121}. 
-More surprisingly, we show that the number of partial orders so that all singletons are comparable with all doubletons is counted by the [Robbins numbers]{https://oeis.org/A005130},
+Let $F$ be the collection of subsets of $[n]={1,2,...,n}$ of size at most 2 with the partial order rule
+$i<j$ implies $\{i\}≺\{j\}$ and  $\{i,k\}≺\{j,k\}$. We show that the number of linear extensions of $F$ is counted by the <a href='https://oeis.org/A003121'>strict sense ballot numbers</a>. 
+More surprisingly, we show that the number of partial orders so that all singletons are comparable with all doubletons is counted by the <a href='https://oeis.org/A005130'>Robbins numbers</a>.
 which is also the number of alternating sign matrices.
