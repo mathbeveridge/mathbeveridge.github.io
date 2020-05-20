@@ -6,7 +6,7 @@ excerpt: 'We use linear algebraic techniques to construct a preference order who
 date: 2020-12-20
 venue: 'submitted'
 paperurl: 'https://arxiv.org/abs/1809.08332'
-citation: 'A. Beveridge and I. Calaway, The Voter Basis and the Admissibility of Tree Characters, submitted.'
+citation: 'A. Beveridge and I. Calaway, The Voter Basis and the Admissibility of Tree Characters, preprint.'
 ---
 
 When making n simultaneous decisions (for example, in a referendum election), our preference for the outcomes on one subset can depend on the outcomes on a disjoint subset. 
