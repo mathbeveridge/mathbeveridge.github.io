@@ -9,4 +9,4 @@ paperurl: 'https://www.macalester.edu/~abeverid/papers/TheGameOfGameOfThrones.pd
 citation: 'A. Beveridge and M. Chemers, The Game of &quot;Game of Thrones&quot;: Fractal Dramaturgy and Networked Concordances, in: Narrative Ecosystems: Reading Contemporary Serial Television Universes (P. Brembilla and I. A. De Pascalis, Eds.), Rutledge Advances in Television Studies, 2018.'
 ---
 
-This interdisiplinary paper unites cultural criticism with mathematical analysis. We use data science techniques to create network visualizations of the character interactions in &quot;Game of Thrones.&quot We then evaluate these results within the conventions of dramatic storytelling.
+This interdisiplinary paper unites cultural criticism with mathematical analysis. We use data science techniques to create network visualizations of the character interactions in &quot;Game of Thrones.&quot; We then evaluate these results within the conventions of dramatic storytelling.
