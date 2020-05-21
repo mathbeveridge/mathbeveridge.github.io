@@ -1,5 +1,5 @@
 ---
-title: "aker-Breaker Games on Random Geometric Graphs"
+title: "Maker-Breaker Games on Random Geometric Graphs"
 collection: publications
 permalink: /publication/2014-maker-breaker-geometric
 excerpt: 'We consider four Maker-Breaker games played on random geometric graphs. For each of our four games we show that if we add edges between $n$ points chosen uniformly at random in the unit square by order of increasing edge-length then, with probability tending to one as $n \rightarrow \infty$, the graph becomes Maker-win the very moment it satisfies a simple necessary condition.
