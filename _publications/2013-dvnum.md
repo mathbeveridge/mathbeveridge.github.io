@@ -1,5 +1,5 @@
 ---
-title: "Pursuit-Evasion in a Two-Dimensional Domain"
+title: "Visibility Number of Directed Graphs"
 collection: publications
 permalink: /publication/2013-dvnum
 excerpt: 'A $k$-bar visibility representation of a digraph $$G assigns each vertex at most $k$ horizontal segments in the plane so that $G$ has an arc $uv$ if and only if some segment for $u$ &quote;sees&quot; some segment for $v$ above it by a vertical line of sight. 
