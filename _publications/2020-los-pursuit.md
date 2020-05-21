@@ -1,7 +1,7 @@
 ---
 title: "Line-of-Sight Pursuit in Monotone and Sweepable Polygons"
 collection: publications
-permalink: /publication/2020a-los-pursuit
+permalink: /publication/2020-los-pursuit
 excerpt: 'We describe stategies for a single pursuer to capture an evader in certain polygon families. The pursuer has a map of the environment, but cannot see around corners.'
 date: 2019-12-01
 venue: 'International Journal on Computational Geometry and Applications'
