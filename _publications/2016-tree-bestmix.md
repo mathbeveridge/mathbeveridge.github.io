@@ -1,7 +1,7 @@
 ---
 title: "The Best Mixing Time for Random Walks on Trees"
 collection: publications
-permalink: /publication/2017-pursuit-2d-domain
+permalink: /publication/2016-tree-bestmix
 excerpt: 'We characterize the extremal structures for mixing walks on trees that start from the most advantageous vertex.'
 date: 2016-06-01
 venue: 'Graphs and Combinatorics'
