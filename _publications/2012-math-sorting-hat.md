@@ -13,4 +13,4 @@ We describe the development and implementation of an automated procedure for ass
 The heart of the procedure is to find a minium weight perfect matching on a bipartite graph using the Hungarian algorithm.
 
 Note: we improved this procedure in later years using integer linear programming. 
-See <a href="https://mathbeveridge.github.io/publication/2014-sorting-hat-college>The Sorting Hat Goes to College</a>.
+See <a href="https://mathbeveridge.github.io/publication/2014-sorting-hat-college">The Sorting Hat Goes to College</a>.
