@@ -1,5 +1,5 @@
 ---
-title: "The Voter Basis and the Admissibility of Tree Characters"
+title: "A Hitting Time Formula for the Discrete Green's Function"
 collection: publications
 permalink: /publication/2016-greens-function
 excerpt: 'We give an elementary formula for the discrete Green's function in terms of state-to-state hitting times of the underlying graph.'
