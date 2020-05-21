@@ -1,0 +1,16 @@
+---
+title: "Centers for Random Walks on Trees"
+collection: publications
+permalink: /publication/2009-tree-center
+excerpt: 'We consider two distinct centers which arise in measuring how quickly a random walk on a tree mixes. Optimal stopping rules lead to a variety of natural notions of centrality. Each of these criteria identifies the barycenter of the tree as the \quot;average\quot; center and the newly defined focus as the \quot;extremal\quot; center.'
+date: 2009-04-01
+venue: 'SIAM Journal on Discrete Mathematics'
+paperurl: 'https://www.macalester.edu/~abeverid/papers/tree.pdf'
+citation: 'A. Beveridge, Centers for random walks on trees, SIAM Journal on Discrete Mathematics, Vol. 23, Issue 1 (2009), pp. 300–319.'
+---
+
+We consider two distinct centers which arise in measuring how quickly a random walk
+on a tree mixes. Optimal stopping rules lead to a variety of natural notions of centrality.
+Each of these criteria identifies the barycenter of the tree as the \quot;average\quot;
+center and the newly defined focus as the \quot;extremal\quot; center.
+
