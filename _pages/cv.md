@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Mathematics, Yale University, 1997
+  * Advisor: László Lovász
+  * Dissertation: Stopping Rules and Time Reversal for Finite Markov Chains
+* MS in Mathematics, Yale University, 1997
+* BA in Mathematics, Williams College, 1991
+  * Magna Cum Laude, Phi Beta Kappa, Sigma Xi
 
-Work experience
+Academic Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Macalester College** (St Paul, MN, USA)
+  * Professor 2018-present
+  * Associate Professor 2013-2018
+  * Assistant Professor 2007-2013
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Budapest Semesters in Mathematics** (Budapest, Hungary)
+  * Director's Mathematician in Residence, Summer 2016
   
-Skills
+* **Institute for Mathematics and its Applications** (University of Minnesota, Minneapolis, MN, USA)
+  * Long-Term Visitor 2014-2015
+    * Thematic Year: Discrete Structures and their Applications
+  * General Member 2011-2012
+    * Thematic Year: Mathematics of Information
+* **Carnegie Mellon University** (Pittsburgh, PA, USA)
+  * Eugene P. Shelly Visiting Assistant Professor, 2005-2007
+  * Richard J. Duffin Visiting Assistant Professor, 1997-1998
+  
+Non-Academic Appointments
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Stanford University School of Medicine**  (Stanford, CA) 
+  * Database Architect, Information Resources and Technology 2005
+* **NorthStar Software** (San Francisco, CA, USA)
+  * Senior Software Engineer, 2002-2005
+* **Extricity Software** (Redwood Shores, CA, USA)
+  * Sofware Engineer 1998-2002
 
 Publications
 ======
