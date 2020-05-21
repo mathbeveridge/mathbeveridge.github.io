@@ -3,7 +3,7 @@ title: "A Leapfrog Strategy for Pursuit-Evasion in Polygonal Environments"
 collection: publications
 permalink: /publication/2015-leapfrog
 excerpt: 'We give sufficient (but not necessary) conditions for an environment to have a winning leapfrog strategy for two pursuers to catch an evader.We give an $O(n^2)$ algorithm that can construct a winning leapfrog strategy for some environments.'
-date: 2017-06-01
+date: 2015-06-01
 venue: 'International Journal on Computational Geometry and Applications'
 paperurl: 'https://arxiv.org/abs/1401.2960'
 citation: 'B. Ames, A. Beveridge, C. Djang, R. Carlson, V. Isler, S. Ragain, M. Savage, A Leapfrog Strategy for Pursuit-Evasion in Polygonal Environments, International Journal on Computational Geometry and Applications, Vol. 25, No. 2, (2015) pp. 77-100.'
