@@ -89,29 +89,29 @@ Teaching
 
 ### Carnegie Mellon University
 
-* **Math 341 Linear Algebra **
+* **Math 341 Linear Algebra**
   * S98
-* **Math 320 Symbolic Programming Methods **
+* **Math 320 Symbolic Programming Methods**
   * S07
-* **Math 257 Models and Methods for Optimization **
+* **Math 257 Models and Methods for Optimization**
   * S06
-* **Math 241 Matrix Algebra **
+* **Math 241 Matrix Algebra**
   * F06
-* **Math 228 Discrete Mathematics **
+* **Math 228 Discrete Mathematics**
   * S98
-* **Math 127 Concepts of Mathematics **
+* **Math 127 Concepts of Mathematics**
   * F05, S07
-* **Math 126 Introduction to Mathematical Software **
+* **Math 126 Introduction to Mathematical Software**
   * F05, S06
-* **Math 111 Calculus I **
+* **Math 111 Calculus I**
   * F97
 
 ### Yale University
-* **Math 120 Calculus of Functions of Several Variables **
+* **Math 120 Calculus of Functions of Several Variables**
   * S96, S97
-* **Math 115 Calculus of Functions of One Variable II  **
+* **Math 115 Calculus of Functions of One Variable II**
   * F94
-* **Math 112 Calculus of Functions of One Variable I  **
+* **Math 112 Calculus of Functions of One Variable I**
   * SU97  
   
 
