@@ -61,7 +61,7 @@ Talks
 Teaching
 ======
 
-### Macalester College
+## Macalester College
 * **Math 479  Network Science**
   * S15, S17, S18, S19
 * **Math 469  Combinatorial Optimization**  
@@ -87,7 +87,7 @@ Teaching
 * **Math 135  Applied Calculus** 
   * F07, S08, S10
 
-### Carnegie Mellon University
+## Carnegie Mellon University
 
 * **Math 341 Linear Algebra**
   * S98
@@ -106,7 +106,7 @@ Teaching
 * **Math 111 Calculus I**
   * F97
 
-### Yale University
+## Yale University
 * **Math 120 Calculus of Functions of Several Variables**
   * S96, S97
 * **Math 115 Calculus of Functions of One Variable II**
