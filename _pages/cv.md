@@ -63,7 +63,7 @@ Teaching
 
 ## Macalester College
 * **Math 479  Network Science**
-  * S15, S17, S18, S19
+  * S15, S17, S18, S19, F20
 * **Math 469  Combinatorial Optimization**  
   * F08
 * **Math 394  Topics in Graph Theory**  
@@ -77,7 +77,7 @@ Teaching
 * **Math 279  Discrete Mathematics**  
   * F16, S17, F18, F19, S20
 * **Math 236  Linear Algebra** 
-  * F09, S12, F12, S14, F17, F19
+  * F09, S12, F12, S14, F17, F19, F20
 * **Math 137  Single Variable Calculus**  
   * F08 
 * **Math 136  Discrete Mathematics: How to Be a Player**  
@@ -118,6 +118,11 @@ Teaching
 
 
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* MAA Spectrum Editorial Board, 2016 - present
+* Refereed for two dozen journals
+* Session organizer/chair at various conferences
+* Math Area Coordinator, MSCS Department, 2018-2020
+* Various elected committees, Macalester College
+* Konhauser Problemfest organizer, 2010 - present
