@@ -15,10 +15,6 @@ redirect_from:
      style="float: right;"
      width="400pt" />
 
-![]()
-
-About Me
-====
 
 Professor of Mathematics<br />
 [Mathematics, Statistics and Computer Science Department](https://www.macalester.edu/mscs/)<br />
