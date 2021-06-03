@@ -123,7 +123,7 @@ Teaching
 Service
 ======
 * MAA Spectrum Editorial Board, 2016 - present
-* Director, MAXIMA REU 2009-2014, run in partnership with the [Institute for Mathematics and its Applications](https://www.ima.umn.edu/)
+* Director, MAXIMA REU 2009-2014, in partnership with the [Institute for Mathematics and its Applications](https://www.ima.umn.edu/)
 * Referee for two dozen journals
 * Session organizer/chair at various conferences
 * Math Area Coordinator, MSCS Department, 2018-2020
