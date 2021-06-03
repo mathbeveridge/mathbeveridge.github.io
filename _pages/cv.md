@@ -46,6 +46,14 @@ Non-Academic Appointments
 * **Extricity Software** (Redwood Shores, CA, USA)
   * Sofware Engineer 1998-2002
 
+Honors and Recognition
+======
+* Trustee's Award, Macalester College, 2017
+* Jim Hoppe Advisor of the Year Award, Macalester College, 2017
+* Mathematical Moments: Dis-playing the Game of Thrones, American Mathematical Society, 2016
+* Janet L. Andersen Lecture Award, Midstates Consortium for Math and Science, 2016
+* Carl B. Allendoerfer Award for Expository Excellence, Mathematical Association of America, 2015
+
 Publications
 ======
   <ul>{% for post in site.publications %}
