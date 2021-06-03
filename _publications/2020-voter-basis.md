@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-voter-basis
 excerpt: 'We use linear algebraic techniques to construct a preference order whose separable subsets have a tree structure with respect to subset inclusion.'
 date: 2020-12-20
-venue: 'submitted'
+venue: 'Electronic Journal of Combinatorics'
 paperurl: 'https://arxiv.org/abs/1809.08332'
 citation: 'A. Beveridge and I. Calaway, The Voter Basis and the Admissibility of Tree Characters, Order, Vol. 38, No. 1, (2021).'
 ---
