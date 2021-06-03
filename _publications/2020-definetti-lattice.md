@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-definetti-lattice
 excerpt: 'We show that a family of poset extensions is equinumerous with alternating sign matrices.'
 date: 2021-03-21
-venue: Order
+venue: Electronic Journal of Combinatorics
 paperurl: 'https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i1p38'
 citation: 'A. Beveridge, I. Calaway and K. Heysse, De Finetti Lattices and Magog Triangles, Electronic Journal of Combinatorics, Vol. 28, No. 1, (2021), P1.38.'
 ---
