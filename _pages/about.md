@@ -29,6 +29,11 @@ I earned my BA in Mathematics from [Williams College](https://math.williams.edu/
 Network of Thrones
 ====
 
+Here is the network data sets that I created for the books and the TV series based on George R. R. Martin's fantasy epic
+*  [Network data for "A Song of Ice and Fire"](https://github.com/mathbeveridge/asoiaf) (the novels)
+*  [Network data for "Game of Thrones"](https://github.com/mathbeveridge/gameofthrones) (the television series)
+*  Visit my [Network of Thrones](https://networkofthrones.wordpress.com/) blog to read about my analysis and learn a bit about the basics of Network Science.
+
 In 2016, a student and I published [an introductory article](https://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf) for [MAA Math Horizons](https://www.maa.org/press/periodicals/math-horizons) that performed a network analysis for "A Storm of Swords," the third book in George R. R. Martin's "A Song of Ice and Fire" series. Our result went viral, thanks to a playful [Quartz article by Adam Epstein](http://qz.com/650796/mathematicians-mapped-out-every-game-of-thrones-relationship-to-find-the-main-character/) about it. Other nice articles following, including a thoughtful [IFLScience article](http://www.iflscience.com/editors-blog/mathematicians-create-game-thrones-social-network-work-out-who-rules-westeros), an [entertaining video summary from Huffington Post](https://www.huffpost.com/entry/game-of-thrones-math-real-star_n_5700de59e4b0a06d5805ef9a) and [the definitive rebuttal from the AV Club](http://www.avclub.com/article/math-nerds-decided-true-protagonist-game-thrones-234660).
 
 The [American Mathematical Society](http://www.ams.org/home/page) even designated my Network of Thrones as a [Mathematical Moment](http://www.ams.org/publicoutreach/mathmoments/mm123-thrones-podcast). This series of posters promotes the impact of mathematics on science, nature, technology and human culture.
