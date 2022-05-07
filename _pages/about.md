@@ -55,6 +55,7 @@ The signature assignment of my Combinatorics class asks students to characterize
 * [Volume 5 (December 2016)](https://drive.google.com/file/d/1SpsxK5dITANR_syUwuBh3eoYGOBdLQX3/view?usp=sharing)
 * [Volume 6 (December 2017)](https://drive.google.com/file/d/1xd3bXWMT_IIVVz7z7mGiqQF_wLoEXEoD/view?usp=sharing)
 * Volume 7 (December 2018)
+* Volume 8 (December 2021) (https://drive.google.com/file/d/1eMYdyZQ_PpHJz926PLrViEW6WYGh500a/view?usp=sharing)
 
 Velvet Erdős
 ====
