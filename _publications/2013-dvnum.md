@@ -6,7 +6,7 @@ excerpt: 'A $k$-bar visibility representation of a digraph $$G assigns each vert
 The (bar) visibility number $b(G)$ of a digraph $G$ is the least $k$ permitting such a representation. We prove bounds on the bar visibility of planar digraphs and tournaments.'
 date: 2013-08-01
 venue: 'SIAM Journal on Discrete Mathematics'
-paperurl: 'https://www.macalester.edu/~abeverid/papers/dvnum.pdf'
+paperurl: 'https://github.com/mathbeveridge/mathbeveridge.github.io/blob/master/files/dvnum.pdf'
 citation: 'M. Axenovich, A. Beveridge, J. P. Hutchinson and D. West, Visibility Number of Directed Graphs, SIAM Journal on Discrete Mathematics, Vol 27, No. 3, (2013), 1429-1449.'
 ---
 
