@@ -5,7 +5,7 @@ permalink: /publication/2014-sorting-hat-college
 excerpt: 'We describe how to place students into seminar courses using bipartite matching and using integer linear programming.'
 date: 2014-10-01
 venue: 'Mathematics Magazine'
-paperurl: 'https://www.macalester.edu/~abeverid/papers/SortingHatCollege.pdf'
+paperurl: 'https://github.com/mathbeveridge/mathbeveridge.github.io/blob/master/files/SortingHatCollege.pdf'
 citation: 'A. Beveridge, S. Wagon, The Sorting Hat Goes to College, Mathematics Magazine, Vol 87, No. 4 (2014) pp. 243–251.'
 ---
 
