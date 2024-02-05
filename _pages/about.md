@@ -42,6 +42,10 @@ Performing network analysis of ASOIF and "Game of Thrones" (the HBO adaptation) 
 
 Quartz [interviewed me again](https://qz.com/quartzy/1576451/who-will-win-the-game-of-thrones-what-network-science-tells-us/) just before the final season, and even produced a short video about the project.
 
+How to Be a Player: Impartial Combinatorial Games
+====
+
+Here is my [online primer about impartial combinatorial games](https://mathbeveridge.github.io/games/frontmatter.html). I use material for a 3-4 week unit in my Discrete Math course. We start with the game of nim (of course!) and then generalize the patterns into the  Sprague-Grundy theorems. This is a great way to have beginning undergraduate students go on a mathematical journey that uses lots of discrete math techniques. If you find it useful, please let me know!
 
 Macalester Journal of Catalan Numbers
 ====
