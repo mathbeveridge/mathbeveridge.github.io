@@ -66,6 +66,6 @@ Velvet Erdős
 
 In 2015, I fulfilled my ambition to commission a [velvet painting of the incomparable Paul Erdős](https://raw.githubusercontent.com/mathbeveridge/mathbeveridge.github.io/master/images/Erdos.jpg). Uncle Paul is an icon: he helped to define 20th century combinatorics, as a problem poser, a problem solver, and a mathematical connector. There will never be another mathematician like him.
 
-[Bruce White](https://velvetgeek.com/), a North Carolina-based artist, created a beautiful painting that now hangs in my office. Thanks, Bruce!
+[Bruce White](https://www.instagram.com/velvetgeek/?hl=en), a North Carolina-based artist, created a beautiful painting that now hangs in my office. Thanks, Bruce!
 
 
