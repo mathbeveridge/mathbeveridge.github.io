@@ -5,7 +5,7 @@ permalink: /publication/2016-network-of-thrones
 excerpt: 'An introduction to network science using a character interaction network generated from &quot;A Storm of Swords.&quot;'
 date: 2016-04-01
 venue: 'Math Horizons Magazine'
-paperurl: 'http://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf'
+paperurl: 'https://github.com/mathbeveridge/mathbeveridge.github.io/blob/master/files/NetworkofThrones.pdf'
 citation: 'A. Beveridge, J. Shan, Network of Thrones, Math Horizons Magazine, Vol. 23, No. 4 (2016) pp. 18-22.'
 ---
 
