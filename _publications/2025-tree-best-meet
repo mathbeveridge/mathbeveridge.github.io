@@ -1,0 +1,18 @@
+---
+title: "Random Walks and the Best Meeting Time for Trees"
+collection: publications
+permalink: /publication/2025-tree-bestmeet
+excerpt: 'We characterize the extremal structures for the best meeting time on trees with diameter $d$.'
+date: 2025-10-28
+venue: 'TBD'
+paperurl: 'https://arxiv.org/abs/2510.24387'
+citation: 'A. Beveridge, A. Holcombe-Pomerance, Random Walks and the Best Meeting Time for Trees, https://arxiv.org/abs/2510.24387'
+---
+
+We consider random walks on a tree $G=(V,E)$ with stationary distribution $\pi_v = \deg(v)/2|E|$ 
+for $v \in V$. Let the hitting time $H(v,w)$ denote the expected number of steps required for the 
+random walk started at vertex $v$ to reach vertex $w$. We characterize the extremal tree structures 
+for the best meeting time
+$T_{\mathrm{bestmeet}}(G) = \min_{w \in V} \sum_{v \in V} \pi_v H(v,w)$ 
+for trees of order $n$ with diameter $d$. The best meeting time is maximized by the balanced 
+double broom graph, and it is minimized by the balanced lever graph.
