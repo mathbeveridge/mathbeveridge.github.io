@@ -2,7 +2,7 @@
 title: "Random Walks and the Meeting Time for Trees"
 collection: publications
 permalink: /publication/2016-tree-bestmix
-excerpt: 'We characterize the extremal structures for mixing walks on trees that start from the most advantageous vertex.'
+excerpt: 'We characterize the extremal structures for the meeting time for trees with diameter $d$.'
 date: 2025-08-04
 venue: 'TBD'
 paperurl: 'https://arxiv.org/abs/2508.02804'
