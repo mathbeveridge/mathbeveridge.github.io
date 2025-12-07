@@ -1,0 +1,18 @@
+---
+title: "Random Walks and the Meeting Time for Trees"
+collection: publications
+permalink: /publication/2016-tree-bestmix
+excerpt: 'We characterize the extremal structures for mixing walks on trees that start from the most advantageous vertex.'
+date: 2025-08-04
+venue: 'TBD'
+paperurl: 'https://arxiv.org/abs/2508.02804'
+citation: 'A. Beveridge, B. Bridenbaugh and A. Holcombe-Pomerance, Random Walks and the Meeting Time for Trees, https://arxiv.org/abs/2508.02804'
+
+Consider a random walk on a tree $G=(V,E)$. For $v,w \in V$, let the hitting time $H(v,w)$ denote 
+the expected number of steps required for the random walk started at $v$ to reach $w$, and let 
+$\pi_v = \deg(v)/2|E|$ denote the stationary distribution for the random walk. 
+We characterize the extremal tree structures for the meeting time
+$T_{\mathrm{meet}}(G) = \max_{w \in V} \sum_{v \in V} \pi_v H(v,w)$. 
+For fixed order $n$ and diameter $d$, the meeting time is maximized by the broom graph. 
+The meeting time is minimized by the balanced double broom graph, or a slight variant, 
+depending on the relative parities of $n$ and $d$.
