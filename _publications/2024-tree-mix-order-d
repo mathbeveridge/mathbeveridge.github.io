@@ -1,5 +1,5 @@
 ---
-title: "The Best Mixing Time for Random Walks on Trees"
+title: "The Exact Mixing Time for Trees with Fixed Diameter"
 collection: publications
 permalink: /publications/2024-tree-mix-order-d
 excerpt: 'We characterize the extremal structure for the exact mixing time for random walks on trees of order $n$ with diameter $d$'
