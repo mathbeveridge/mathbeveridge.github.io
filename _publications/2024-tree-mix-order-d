@@ -1,0 +1,18 @@
+---
+title: "The Best Mixing Time for Random Walks on Trees"
+collection: publications
+permalink: /publications/2024-tree-mix-order-d
+excerpt: 'We characterize the extremal structure for the exact mixing time for random walks on trees of order $n$ with diameter $d$'
+date: 2024-11-09
+venue: 'TBD'
+paperurl: 'https://arxiv.org/abs/2411.06247'
+citation: 'A. Beveridge, K. Heysse, R. O'Higgins, L. Vescovo, https://arxiv.org/abs/2411.06247.'
+---
+
+We characterize the extremal structure for the exact mixing time for random walks on trees
+$T_{n,d}$ of order $n$ with diameter $d$. Given a graph $G=(V,E)$, let $H(v,\pi)$ denote the 
+expected length of an optimal stopping rule from vertex $v$ to the stationary distributon $\pi$. 
+We show that the quantity 
+$\max_{G \in T_{n,d}} T_{\mathrm{mix}}(G) = \max_{G \in T_{n,d}}  \max_{v \in V} H(v, \pi)$
+is achieved uniquely by the balanced double broom.
+
