@@ -6,7 +6,7 @@ excerpt: 'We characterize the extremal structures for the meeting time for trees
 date: 2025-08-04
 venue: 'TBD'
 paperurl: 'https://arxiv.org/abs/2508.02804'
-citation: 'A. Beveridge, B. Bridenbaugh and A. Holcombe-Pomerance, Random Walks and the Meeting Time for Trees, https://arxiv.org/abs/2508.02804'
+citation: 'A. Beveridge, B. Bridenbaugh, A. Holcombe-Pomerance, Random Walks and the Meeting Time for Trees, https://arxiv.org/abs/2508.02804'
 
 Consider a random walk on a tree $G=(V,E)$. For $v,w \in V$, let the hitting time $H(v,w)$ denote 
 the expected number of steps required for the random walk started at $v$ to reach $w$, and let 
