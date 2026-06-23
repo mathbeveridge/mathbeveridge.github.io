@@ -5,7 +5,7 @@ permalink: /publication/2026-abt-ssb
 excerpt: 'We study binary triangular arrays that are in bijection with 
 totally symmetric self-complementary plane partitions, and explore their connections to ballot problems.'
 date: 2026-06-19
-venue: 'TBD'
+venue: 'Enumerative Combinatorics and Applications'
 paperurl: 'https://ecajournal.haifa.ac.il/Volume2026/ECA2026_S2A21.pdf'
 citation: 'A. Beveridge, I. Calaway, Approval Ballot Triangles and Strict-Sense Ballots, Enumerative Combinatorics and Applications, 6:3 (2026) Article S2R21'
 ---
