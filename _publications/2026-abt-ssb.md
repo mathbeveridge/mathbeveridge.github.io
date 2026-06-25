@@ -2,7 +2,7 @@
 title: "Approval Ballot Triangles and Strict-Sense Ballots"
 collection: publications
 permalink: /publication/2026-abt-ssb
-excerpt: 'We study binary triangular arrays that are in bijection with 
+excerpt: 'We study a family of binary triangular arrays that are in bijection with 
 totally symmetric self-complementary plane partitions, and explore their connections to ballot problems.'
 date: 2026-06-19
 venue: 'Enumerative Combinatorics and Applications'
